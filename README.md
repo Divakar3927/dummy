@@ -1,2 +1,3 @@
 # dummy
-This Repo is created just to explore some interesting tricks and procedures
+This Repo is created just to explore some interesting tricks and procedures in Git & GitHub
+
